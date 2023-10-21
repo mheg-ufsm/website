@@ -11,3 +11,15 @@ If you are a researcher in need of harmonizing and comparing questionnaires, che
 See how it works:
 
 <https://www.youtube.com/watch?v=cEZppTBj1NI&ab_channel=Harmony>
+
+# DSM-XC Calculator
+
+
+
+<https://pacheco-jpg.shinyapps.io/dsm_xc_shiny_app/>
+
+# PHQ-9 Calculator
+
+The Patient Health Questionnaire-9 calculator, developed by our team, computes your standardized depression score, compared with the Brazilian population.The standardized score (T Score) is a measure that uses a method called Item Response Theory, based on the analyses of answers to the same questions by Brazilians in the National Health Survey of 2019 (Damiano et al. 2023 - https://doi.org/10.47626/1516-4446-2022-2945). This standardized score ranges from 0 to 100, with 0 to 50 representing no symptoms, 50 to 60 representing a few symptoms, between 60 and 70 as moderate symptoms, and above 70 as severe symptoms that warrant clinical attention for depression.
+
+<https://mheg.shinyapps.io/phq9-score/>
