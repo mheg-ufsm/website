@@ -4,7 +4,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "We value your interest in the Mental Health Epidemiology Group. If you have any questions, would like to collaborate, or need more information about our research and courses, please feel free to get in touch with us.\nEmail: joaopgp123@gmail.com"
+    "text": "We value your interest in the Mental Health Epidemiology Group. If you have any questions, would like to collaborate, or need more information about our research and courses, please feel free to get in touch with us.\nEmail: mheg.ufsm@gmail.com"
   },
   {
     "objectID": "courses.html",
@@ -60,7 +60,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Harmony\nIf you are a researcher in need of harmonizing and comparing questionnaires, check out Harmony! This valuable tool can save you time and enhance the quality of your research. It is being developed by a collaborative team from the UK and Brazil (Dr. Hoffmann), and is funded by the Wellcome Trust (Data Prize).\nSee how it works:\nhttps://www.youtube.com/watch?v=cEZppTBj1NI&ab_channel=Harmony"
+    "text": "Harmony\nIf you are a researcher in need of harmonizing and comparing questionnaires, check out Harmony! This valuable tool can save you time and enhance the quality of your research. It is being developed by a collaborative team from the UK and Brazil (Dr. Hoffmann), and is funded by the Wellcome Trust (Data Prize).\nSee how it works:\nhttps://www.youtube.com/watch?v=cEZppTBj1NI&ab_channel=Harmony\n\n\nDSM-XC Calculator\nhttps://pacheco-jpg.shinyapps.io/dsm_xc_shiny_app/\n\n\nPHQ-9 Calculator\nThe Patient Health Questionnaire-9 calculator, developed by our team, computes your standardized depression score, compared with the Brazilian population.The standardized score (T Score) is a measure that uses a method called Item Response Theory, based on the analyses of answers to the same questions by Brazilians in the National Health Survey of 2019 (Damiano et al. 2023 - https://doi.org/10.47626/1516-4446-2022-2945). This standardized score ranges from 0 to 100, with 0 to 50 representing no symptoms, 50 to 60 representing a few symptoms, between 60 and 70 as moderate symptoms, and above 70 as severe symptoms that warrant clinical attention for depression.\nhttps://mheg.shinyapps.io/phq9-score/"
   },
   {
     "objectID": "team.html",
