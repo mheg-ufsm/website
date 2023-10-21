@@ -1,0 +1,39 @@
+---
+title: "Team"
+format: html
+editor: visual
+---
+
+Our dedicated team at the Mental Health Epidemiology Group is composed of skilled researchers, educators, and professionals committed to advancing the field of mental health research. Together, we strive to make a positive impact on mental health outcomes and contribute to the well-being of individuals and communities.
+
+**Prof. Dr. Maurício Scopel Hoffmann**
+
+![](identidade_visual/team/hoffmann-modified.png){fig-align="center" width="100"}
+
+*Position: Professor (tenure) & Lab Head*
+
+Dr. Hoffmann is an Adjunct Professor of psychiatry at the Federal University of Santa Maria (UFSM) and the Graduation Program in Psychiatry and Behavioral Sciences (PPGPsiq) at Federal University of Rio Grande do Sul (UFRGS). Dr. Hoffmann uses psychometric and structural equation modeling techniques as an approach to his research questions around psychiatric nosology and epidemiology.
+
+**Prof. MSc. João Pedro Gonçalves Pacheco**
+
+![](identidade_visual/team/joaopacheco-modified.png){fig-align="center" width="100"}
+
+*Position: Assistant Professor*
+
+Dr. Pacheco is an assistant professor (tenure track) of psychiatry at UFSM and PhD student at the PPGPsiq at UFRGS in psychiatric epidemiology.
+
+**MD. João Villanova do Amaral**
+
+![](identidade_visual/team/joaoamaral-modified.png){fig-align="center" width="100"}
+
+*Position: Research Associate*
+
+Dr. do Amaral holds an MD degree (UFSM) and is currently a Master's candidate at the PPGPsiq UFRGS.
+
+**Mr. Ighor Porto**
+
+![](identidade_visual/team/ighor-modified.png){fig-align="center" width="100"}
+
+*Position: Research Assistant*
+
+Mr. Porto is a dedicated medical student with a passion for mental health epidemiology.

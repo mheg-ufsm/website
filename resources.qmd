@@ -1,0 +1,13 @@
+---
+title: "Resources"
+format: html
+editor: visual
+---
+
+# Harmony
+
+If you are a researcher in need of harmonizing and comparing questionnaires, check out [Harmony](https://harmonydata.ac.uk/)! This valuable tool can save you time and enhance the quality of your research. It is being developed by a collaborative team from the UK and Brazil (Dr. Hoffmann), and is funded by the Wellcome Trust (Data Prize).
+
+See how it works:
+
+<https://www.youtube.com/watch?v=cEZppTBj1NI&ab_channel=Harmony>

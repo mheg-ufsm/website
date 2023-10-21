@@ -1,0 +1,29 @@
+---
+title: "Courses"
+format: html
+editor: visual
+---
+
+### **Data Analysis in Mental Health: Observational Studies and Psychometrics in R Language**
+
+Portuguese title: *Análise de Dados em Saúde Mental: Estudos Observacionais e Psicometria em Linguagem R*
+
+**Course Description:**
+
+This course is designed to equip participants with essential skills in analyzing mental health data using R, a powerful and versatile programming language for statistical computing and graphics.
+
+**Course Location:**
+
+Federal University of Santa Maria, Brazil.
+
+### **Advanced Biostatistics: Psychometrics and Structural Equation Modelling Applied to Psychopathology**
+
+Portuguese title: *Bioestatística Avançada: Psicometria e Modelagem de Equações Estruturais Aplicadas à Psicopatologia*
+
+**Course Description:**
+
+This course is designed for master's and doctoral students who seek to gain a comprehensive understanding and practical application of structural equations and their various forms in the field of psychopathology. The course focuses on exploring and utilizing techniques such as factor analysis, cross-lagged analysis, and latent growth modeling. The technical training provided in this course equips participants with the skills to conduct structural equations using the statistical programming language R.
+
+**Course Location:**
+
+Federal University of Rio Grande do Sul, Brazil.
