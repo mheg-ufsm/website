@@ -14,7 +14,7 @@ See how it works:
 
 # DSM-XC Calculator
 
-
+The DSM Level 1 Cross-Cutting Symptom Measure (DSM-XC) (<https://www.psychiatry.org/getmedia/e0b4b299-95b3-407b-b8c2-caa871ca218d/APA-DSM5TR-Level1MeasureAdult.pdf)> calculator allows for visualizing the change from the pre- to the post-test probability of 8 mental disorders. The user can select from the multiple psychopathological domains the DSM-XC measures, the adverbial framing that was used and if the test was positive or negative. The acompanying paper is currently under review. Estimates are based on the latest assessment of 22 years old of the 1993 Pelotas Birth Cohort.
 
 <https://pacheco-jpg.shinyapps.io/dsm_xc_shiny_app/>
 
