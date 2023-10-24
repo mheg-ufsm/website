@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mheg-ufsm.github.io/website/contact.html</loc>
-    <lastmod>2023-10-21T11:51:30.090Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mheg-ufsm.github.io/website/courses.html</loc>
-    <lastmod>2023-10-21T11:51:30.877Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mheg-ufsm.github.io/website/index.html</loc>
-    <lastmod>2023-10-21T11:51:31.620Z</lastmod>
+    <loc>https://mheg-ufsm.github.io/website/team.html</loc>
+    <lastmod>2023-10-24T17:19:30.295Z</lastmod>
   </url>
   <url>
     <loc>https://mheg-ufsm.github.io/website/publications.html</loc>
-    <lastmod>2023-10-21T11:51:32.636Z</lastmod>
+    <lastmod>2023-10-24T17:19:28.002Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mheg-ufsm.github.io/website/courses.html</loc>
+    <lastmod>2023-10-24T17:19:26.166Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mheg-ufsm.github.io/website/contact.html</loc>
+    <lastmod>2023-10-24T17:19:25.324Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mheg-ufsm.github.io/website/index.html</loc>
+    <lastmod>2023-10-24T17:19:27.023Z</lastmod>
   </url>
   <url>
     <loc>https://mheg-ufsm.github.io/website/resources.html</loc>
-    <lastmod>2023-10-21T11:51:33.376Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mheg-ufsm.github.io/website/team.html</loc>
-    <lastmod>2023-10-21T11:51:34.349Z</lastmod>
+    <lastmod>2023-10-24T17:19:29.261Z</lastmod>
   </url>
 </urlset>
