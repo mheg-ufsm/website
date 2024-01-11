@@ -14,7 +14,7 @@ website:
       - team.qmd
       - contact.qmd
   favicon: "identidade_visual/png/logo_color_transp.png"
-  page-footer: "Mental Health Epidemiology Group - 2023"
+  page-footer: "Mental Health Epidemiology Group - 2024"
 theme: flatly
 format: 
   html: 
