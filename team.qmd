@@ -37,3 +37,11 @@ Dr. do Amaral holds an MD degree (UFSM) and is currently a Master's candidate at
 *Position: Research Assistant*
 
 Mr. Porto is a dedicated medical student with a passion for mental health epidemiology.
+
+**Ms. Gabriele dos Santos Jobim**
+
+Ms. Gabriele is a medical student with a background in web-development and interested in pyschometrics.
+
+![](images/Screenshot_20240111_093745_WhatsApp.jpg){style="border-radius: 50%" fig-align="center" width="100"}
+
+*Position: Research Assistant*
