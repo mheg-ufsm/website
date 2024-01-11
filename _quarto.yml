@@ -16,3 +16,6 @@ website:
   favicon: "identidade_visual/png/logo_color_transp.png"
   page-footer: "Mental Health Epidemiology Group - 2023"
 theme: flatly
+format: 
+  html: 
+    css: style.css

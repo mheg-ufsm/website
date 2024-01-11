@@ -40,8 +40,8 @@ Mr. Porto is a dedicated medical student with a passion for mental health epidem
 
 **Ms. Gabriele dos Santos Jobim**
 
-Ms. Gabriele is a medical student with a background in web-development and interested in pyschometrics.
-
-![](images/Screenshot_20240111_093745_WhatsApp.jpg){style="border-radius: 50%" fig-align="center" width="100"}
+![](images/Screenshot_20240111_093745_WhatsApp.jpg){#gb}
 
 *Position: Research Assistant*
+
+Ms. Gabriele is a medical student with a background in web-development and interested in pyschometrics.
