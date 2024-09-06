@@ -1,7 +1,7 @@
 ---
 title: "Team"
 format: html
-editor: visual
+editor: source
 ---
 
 Our dedicated team at the Mental Health Epidemiology Group is composed of skilled researchers, educators, and professionals committed to advancing the field of mental health research. Together, we strive to make a positive impact on mental health outcomes and contribute to the well-being of individuals and communities.
@@ -22,7 +22,7 @@ Dr. Hoffmann is an Adjunct Professor of psychiatry at the Federal University of 
 
 Dr. Pacheco is an assistant professor (tenure track) of psychiatry at UFSM and PhD student at the PPGPsiq at UFRGS in psychiatric epidemiology.
 
-**MD. João Villanova do Amaral**
+**Mr. João Villanova do Amaral**
 
 ![](identidade_visual/team/joaoamaral-modified.png){fig-align="center" width="100"}
 
@@ -45,3 +45,27 @@ Mr. Porto is a dedicated medical student with a passion for mental health epidem
 *Position: Research Assistant*
 
 Ms. Gabriele is a medical student with a background in web-development and interested in pyschometrics.
+
+**Mr. Ricardo Bombardelli**
+
+![](identidade_visual/team/ricardo_pic.jpg){#gb}
+
+*Position: Research Assistant*
+
+Mr. Bombardelli is a medical student with a fascination for mental health applied statistics and an acute curiosity for coding.
+
+**Mr. Eduardo Karpovisch**
+
+![](identidade_visual/team/eduardo_pic.jpg){#ed}
+
+*Position: Research Assistant*
+
+Mr. Karpovisch is a medical student with knowledge in programming across multiple languages and enthusiasm for psychometrics and psychiatric epidemiology.
+
+**Mr. Gabriel Alves**
+
+![](identidade_visual/team/gabriel_pic.jpg){#gb}
+
+*Position: Research Assistant*
+
+Mr. Alves is a dedicated medical student with a meta-analysis background and interest in neuropsychiatry research.
