@@ -16,34 +16,43 @@ editor: visual
 
 **Featured Publications:**
 
-1.  [A general psychopathology factor (P factor) in children: Structural model analysis and external validation through familial risk and child global executive function.](https://psycnet.apa.org/record/2016-49574-001)
+1.  [Comparing mental health semi-structured diagnostic interviews and symptom checklists to predict poor life outcomes: an 8-year cohort study from childhood to young adulthood in Brazil](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00462-X/fulltext?uuid=uuid%3Ad3af1390-a406-4747-9868-3c0fab960386)
+    -   Year: 2024
+    -   Published in: The Lancet Global Health
+2.  [How much or how often? Examining the screening properties of the DSM cross-cutting symptom measure in a youth population-based sample](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/how-much-or-how-often-examining-the-screening-properties-of-the-dsm-crosscutting-symptom-measure-in-a-youth-populationbased-sample/AC8B065569222AD42718997A359B494F)
+    -   Year: 2024
+    -   Published in: Psychological Medicine
+3.  [Beyond frequency: Evaluating the validity of assessing the context, duration, ability and botherement of depression and anxiety symptoms in south Brazil: Evaluating the validity of assessing the context, duration, ability, and botherment of depression and anxiety symptoms in South Brazil](https://pure.ulster.ac.uk/en/publications/beyond-frequency-evaluating-the-validity-of-assessing-the-context)
+    -   Year: 2024
+    -   Published in: Psychological Assessment
+4.  [A general psychopathology factor (P factor) in children: Structural model analysis and external validation through familial risk and child global executive function.](https://psycnet.apa.org/record/2016-49574-001)
     -   Year: 2017
     -   Published in: Journal of Abnormal Psychology
-2.  [Effects of mental health status during adolescence on primary care costs in adulthood across three British cohorts](https://link.springer.com/article/10.1007/s00127-023-02507-y)
+5.  [Effects of mental health status during adolescence on primary care costs in adulthood across three British cohorts](https://link.springer.com/article/10.1007/s00127-023-02507-y)
     -   Year: 2023
     -   Published in: Social Psychiatry and Psychiatric Epidemiology
-3.  [Parent- and teacher-reported associations from adolescent bifactor models of psychopathology: an outcome-wide association study of 26 outcomes in mid-life](https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.13707)
+6.  [Parent- and teacher-reported associations from adolescent bifactor models of psychopathology: an outcome-wide association study of 26 outcomes in mid-life](https://acamh.onlinelibrary.wiley.com/doi/abs/10.1111/jcpp.13707)
     -   Year: 2022
     -   Published in: Journal of Child Psychology and Psychiatry
-4.  [Reliability and validity of bifactor models of dimensional psychopathology in youth](https://psycnet.apa.org/record/2022-58765-003)
+7.  [Reliability and validity of bifactor models of dimensional psychopathology in youth](https://psycnet.apa.org/record/2022-58765-003)
     -   Year: 2022
     -   Published in: Journal of Psychopathology and Clinical Science
-5.  [Translating measurement into practice: Brazilian norms for depressive symptom assessment with the Patient Health Questionnaire (PHQ-9)](https://www.scielo.br/j/rbp/a/sbXWVsDYFPZwnx449xzChTL/?lang=en)
+8.  [Translating measurement into practice: Brazilian norms for depressive symptom assessment with the Patient Health Questionnaire (PHQ-9)](https://www.scielo.br/j/rbp/a/sbXWVsDYFPZwnx449xzChTL/?lang=en)
     -   Year: 2023
     -   Published in: Brazilian Journal of Psychiatry
-6.  [Estimated Prevalence of Perinatal Depression in Low- and Middle-Income Countries Considering Uncertainty of Test Properties](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2806609)
+9.  [Estimated Prevalence of Perinatal Depression in Low- and Middle-Income Countries Considering Uncertainty of Test Properties](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2806609)
     -   Year: 2023
     -   Published in: JAMA Psychiatry
-7.  [Translation, cultural adaptation, and validation of the Brazilian Portuguese version of the Higher Education Stress Inventory (HESI-Br)](https://pubmed.ncbi.nlm.nih.gov/35507827/)
+10. [Translation, cultural adaptation, and validation of the Brazilian Portuguese version of the Higher Education Stress Inventory (HESI-Br)](https://pubmed.ncbi.nlm.nih.gov/35507827/)
     -   Year: 2022
     -   Published in: Trends in Psychiatry and Psychotherapy
-8.  [Prevalence of depressive symptoms among medical students: overview of systematic reviews](https://onlinelibrary.wiley.com/doi/abs/10.1111/medu.13770)
+11. [Prevalence of depressive symptoms among medical students: overview of systematic reviews](https://onlinelibrary.wiley.com/doi/abs/10.1111/medu.13770)
     -   Year: 2019
     -   Published in: Medical Education
-9.  [Mental health problems among medical students in Brazil: a systematic review and meta-analysis](https://www.scielo.br/j/rbp/a/FsKx7VwgRVSvwS638BqhbmK/)
+12. [Mental health problems among medical students in Brazil: a systematic review and meta-analysis](https://www.scielo.br/j/rbp/a/FsKx7VwgRVSvwS638BqhbmK/)
     -   Year: 2017
     -   Published in: Brazilian Journal of Psychiatry
-10. [Gender inequality and depression among medical students: A global meta-regression analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395618310586)
+13. [Gender inequality and depression among medical students: A global meta-regression analysis](https://www.sciencedirect.com/science/article/abs/pii/S0022395618310586)
     -   Year: 2019
     -   Published in: Journal of Psychiatric Research
 

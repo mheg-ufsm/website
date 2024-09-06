@@ -64,7 +64,7 @@ Mr. Karpovisch is a medical student with knowledge in programming across multipl
 
 **Mr. Gabriel Alves**
 
-![](identidade_visual/team/gabriel_pic.jpg){#gb}
+![](identidade_visual/team/gabriel_pic_cpy.jpg){#ga}
 
 *Position: Research Assistant*
 
