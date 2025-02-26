@@ -1,6 +1,9 @@
 ---
 title: "Team"
-format: html
+format: 
+  html:
+    css: styles.css
+
 editor: source
 ---
 
@@ -40,7 +43,7 @@ Mr. Porto is a dedicated medical student with a passion for mental health epidem
 
 **Ms. Gabriele dos Santos Jobim**
 
-![](images/Screenshot_20240111_093745_WhatsApp.jpg){#gb}
+![](images/Screenshot_20240111_093745_WhatsApp.jpg){.gb}
 
 *Position: Research Assistant*
 
@@ -48,7 +51,7 @@ Ms. Gabriele is a medical student with a background in web-development and inter
 
 **Mr. Ricardo Bombardelli**
 
-![](identidade_visual/team/ricardo_pic.jpg){#gb}
+![](identidade_visual/team/ricardo_pic.jpg){.gb}
 
 *Position: Research Assistant*
 
@@ -56,7 +59,7 @@ Mr. Bombardelli is a medical student with a fascination for mental health applie
 
 **Mr. Eduardo Karpovisch**
 
-![](identidade_visual/team/eduardo_pic.jpg){#ed}
+![](identidade_visual/team/eduardo_pic.jpg){.ed}
 
 *Position: Research Assistant*
 
@@ -64,7 +67,7 @@ Mr. Karpovisch is a medical student with knowledge in programming across multipl
 
 **Mr. Gabriel Alves**
 
-![](identidade_visual/team/gabriel_pic_cpy.jpg){#ga}
+![](identidade_visual/team/gabriel_pic_cpy.jpg){.ga}
 
 *Position: Research Assistant*
 
