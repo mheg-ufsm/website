@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.555">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Mental Health Epidemiology Group - Resources</title>
+<title>Resources – Mental Health Epidemiology Group</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -87,7 +87,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -118,7 +118,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -165,6 +165,11 @@ ul.task-list li input[type="checkbox"] {
 <h1>PHQ-9 Calculator</h1>
 <p>The Patient Health Questionnaire-9 calculator, developed by our team, computes your standardized depression score, compared with the Brazilian population.The standardized score (T Score) is a measure that uses a method called Item Response Theory, based on the analyses of answers to the same questions by Brazilians in the National Health Survey of 2019 (Damiano et al.&nbsp;2023 - https://doi.org/10.47626/1516-4446-2022-2945). This standardized score ranges from 0 to 100, with 0 to 50 representing no symptoms, 50 to 60 representing a few symptoms, between 60 and 70 as moderate symptoms, and above 70 as severe symptoms that warrant clinical attention for depression.</p>
 <p><a href="https://mheg.shinyapps.io/phq9-score/" class="uri">https://mheg.shinyapps.io/phq9-score/</a></p>
+</section>
+<section id="smfq-calculator" class="level1">
+<h1>SMFQ Calculator</h1>
+<p>The Short Mood and Feelings Questionnaire Calculator was developed to estimate post-test probabilities for psychiatric conditions within the internalizing spectrum. Using data from the Brazilian High-Risk Cohort Study (2018–2019; Salum et al., 2015; <a href="https://doi.org/10.1002/mpr.1459)," class="uri">https://doi.org/10.1002/mpr.1459),</a> this tool allows clinicians to input SMFQ responses and generate standardized T-scores based on Item Response Theory (IRT) parameters. Pre-test probability (prevalence) estimates, weighted for the study’s oversampling procedure, are then combined with interval likelihood ratios (ILRs) to refine post-test probability calculations, offering greater predictive accuracy than traditional dichotomous likelihood ratios. The tool also enables pre-test parameter adjustments, making it adaptable to diverse populations with comparable characteristics.</p>
+<p>The calculator is available in American English (<a href="https://mheg.shinyapps.io/mfq-score-en/)" class="uri">https://mheg.shinyapps.io/mfq-score-en/)</a> and Brazilian Portuguese (<a href="https://mheg.shinyapps.io/mfq-score-main/)." class="uri">https://mheg.shinyapps.io/mfq-score-main/).</a></p>
 
 
 </section>
@@ -205,18 +210,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -248,7 +242,29 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("https:\/\/mheg-ufsm\.github\.io\/website\/");
@@ -256,7 +272,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
